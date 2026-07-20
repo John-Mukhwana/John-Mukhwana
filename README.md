@@ -46,35 +46,6 @@
  
 <br/> 
 
---- 
-
-
-<!--![Matrix Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-
-
-
----
-
-## 🌟 Manifesto
-
-> “Every bug is a chance to build a better future.  
-> Every problem is a call to action.  
-> Let’s architect solutions, together.”
-
-
-- **Ultimate:**
-  - `God Mode` — Debug reality. Deploy solutions. Save the world. 🌍
-
-> _"The future is programmable. Hack it."_
----
-
-<!-- ASCII Divider -->
-```
-╔══════════════════════════════════╗
-║Unravel Chaos, Recompile Humanity.║
-╚══════════════════════════════════╝
-``` 
 ---
 <br/>  
 
