@@ -29,10 +29,9 @@
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://paragraph.com/@cypherpulse) &nbsp;
 <img src="https://komarev.com/ghpvc/?username=cypherpulse&&style=flat-square" alt="Profile Views" />  
 
-## About Me  
 
-![Software Engineer](https://img.shields.io/badge/💻-Software_Engineer-blue)
-![AI for Good](https://img.shields.io/badge/🤖-AI_for_Good-green)
+![Solutions Engineer](https://img.shields.io/badge/💻-Software_Engineer-blue)
+![Agents crafter](https://img.shields.io/badge/🤖-AI_for_Good-green)
 ![🔗 Blockchain Builder](https://img.shields.io/badge/🔗-Blockchain_Builder-black)
 ![🌐 Web3 Enthusiast](https://img.shields.io/badge/🌐-Web3_Enthusiast-purple)
 ![🚀 Open Source Contributor](https://img.shields.io/badge/🚀-Trainer-yellowgreen)
